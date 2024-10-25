@@ -1,0 +1,12 @@
+CLOUD SECURITY: A QUICK GUIDE
+
+Cloud Computing is very benificial while storing and handling data but we also faces many security problems. We should always take precautions while dealing with sensitive information.Some basic step to protect your data is to set a strong and complex passwords. Keep data scrambled and unreadable by encrypting it. Have a backup to recover your data in case something goes wrong. 
+
+Now lets go to some technical terms which you should be familiar with.
+1.Identity and access management (IAM): Defines who can see and do what in the cloud. Such as reviewing the data and editing it.
+2.Multi-factor authentication (MFA): Add an additional layer of security, such as a code from your phone. Which ensures that it can be accesed by only your authorized devices.
+Always keep your software upto date to close the security holes. And periodically test for vulneravilities or errors in the system.
+Be aware of the risks such as third party risks which can happen while using other companies services. We should regularly watch the news about new threats and cybercrimes to know what we have to do so it should not happen with us.
+
+Thus, by following all these steps, it can be ensured that your data and applications in the cloud can be kept safe.
+   --Swaraj Pawar                                                                 
